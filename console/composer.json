@@ -1,0 +1,10 @@
+{
+    "name": "test",
+    "type": "library",
+    "description": "TEST TASK",
+    "minimum-stability": "stable",
+    "require": {
+        "workerman/workerman": "*",
+        "textalk/websocket": "1.0.*"
+    }
+}
